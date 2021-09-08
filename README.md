@@ -4,5 +4,9 @@
   - C# .NET
   - JAVA
   - SQL
+- Proyectos trabajados en Digital House con:
+  - Javascript
+  - Express
+  - Html y Css
 - 📫 Podés contactarme a través de [LinkedIn](https://www.linkedin.com/in/mvbarrionuevo/) o vikibarrionuevo@gmail.com
 
